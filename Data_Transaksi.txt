@@ -1,0 +1,6 @@
+1,Makanan,Donat ABC,5000,2,10000
+1,Makanan,Donat ABC,5000,3,15000
+Total Belanja : Rp.25000
+Uang Bayar : Rp.50000
+Kembalian : Rp.25000
+
