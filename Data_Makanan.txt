@@ -1,0 +1,14 @@
+Makanan ke-1
+Nama : Donat ABC
+Harga : Rp.5000
+Stok : -2
+Tanggal Masuk : 20-6-21
+Tanggal Expired : 27-6-21
+ 
+Makanan ke-2
+Nama : Donat
+Harga : Rp.2000
+Stok : 12
+Tanggal Masuk : 20-6-21
+Tanggal Expired : 20-6-21
+ 
